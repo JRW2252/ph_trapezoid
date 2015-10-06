@@ -22,6 +22,7 @@
 		};
 /* End PBXCopyFilesBuildPhase section */
 
+/* Begin PBXFileReference section */
 		41380B141BB9603D005B0E52 /* trapezoidRule */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = trapezoidRule; sourceTree = BUILT_PRODUCTS_DIR; };
 		41380B171BB9603D005B0E52 /* pth_trapezoid.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pth_trapezoid.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
